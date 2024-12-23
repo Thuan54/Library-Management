@@ -1,0 +1,4 @@
+1111017225624,Clean code,Robert C. Martin,Pearson,Guide Education,135000.000000,2008,2
+1111107632543,Toi la Beto,Nguyen Nhat Anh,Nha xuat ban tre,Van hoc thieu nhi,120000.000000,2007,2
+1145432111212,Khong gia dinh,Hector Malot,Nha xuat ban van hoc,Tieu thuyet,250000.000000,1878,1
+1234211111076,Harry Potter,J.K. Rowling,Bloomsbury,Tieu thuyet,100000.000000,1997,3
